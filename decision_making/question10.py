@@ -1,4 +1,4 @@
-question'''Write a program to take input whether it's raining (yes/no).
+'''question Write a program to take input whether it's raining (yes/no).
  If yes, print "Chhata leke ja bhai ☔", else print "Cool, bina chhate style maar sakta hai 😎".'''
 
 

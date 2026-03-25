@@ -1,4 +1,4 @@
-question'''Write a program to take temperature in Celsius from user.
+'''question Write a program to take temperature in Celsius from user.
  If more than 40, print "Bhai pani lele, garmi maar degi 🔥", else "Chill scene hai, weather cool hai ❄️".'''
 
 

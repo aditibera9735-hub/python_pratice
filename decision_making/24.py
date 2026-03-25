@@ -1,4 +1,4 @@
-question'''"Input day and show mess special menu -
+'''question "Input day and show mess special menu -
 if monday, then ""nan-puri aar ghoogni 😋""
 if tuesday, then ""matar paneer aar naan 🥘""
 if wednesday, then, ""bhetki maach er paturi 😍""

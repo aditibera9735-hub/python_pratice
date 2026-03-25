@@ -1,4 +1,4 @@
-question'''Write a program to check whether t-shirt is clean (yes/no).
+''' question Write a program to check whether t-shirt is clean (yes/no).
  If yes, print "Chal bhai ready ho gaya 😎", else "Kya struggle hai!!! dhona bhi padega ab 😭".'''
 
 

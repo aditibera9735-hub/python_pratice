@@ -1,4 +1,4 @@
-question'''"Take a number (1–7) and print the day name accordingly.
+'''question "Take a number (1–7) and print the day name accordingly.
 If the user enters 1, print Monday. If the user enters 2 print Tuesday.
  Do this for the numbers 3 to 7 as well.
    If the user enters a number out of the range, provide an appropriate message of your choice."'''
