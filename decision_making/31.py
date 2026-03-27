@@ -9,3 +9,11 @@ If age >= 60: ""Eligible to vote with senior citizen priority"""'''
 
 
 age=int(input("enter your age"))
+if age < 18:
+    print("not eligible to vote")
+elif 18 <= age >= 59:
+    print("eligible to vote")
+elif age >= 60:
+    print("eligible to vote with senior citizen priority")
+else:
+    print("vot dite hbe na")
