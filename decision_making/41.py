@@ -12,4 +12,19 @@ Else (clear):
     If hour between 5-23: ""Full service""
     Else: ""No service"""'''
 
+weather = (input('enter weather(clear/rain/storm) : '))
+time = int(input("enter time(0-23) : "))
+if weather == "storm":
+    status = "sevice suspended"
+elif weather == "rain":
+    if 6 <= time <= 22:
+        status = "limited service"
+    else:
+        status = "no service"
+elif weather == "clear":
+    if 5 <= time <= 23:
+        status = "full service"
+    else:
+        status = "no service"
 
+print(f"service status: {status}")
