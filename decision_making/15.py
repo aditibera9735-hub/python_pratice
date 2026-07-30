@@ -1,4 +1,4 @@
-question'''Write a program to take age from user.
+'''Write a program to take age from user.
  If less than 18 or more than 60, print "Discount milega movie ticket mein 🍿",
    else "Full paisa lagega bhai 😅".'''
 
